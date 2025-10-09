@@ -1,30 +1,84 @@
-<h1 align="center">Hi Hellow There, I'm Nekmal Fernando</h1>
-<h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
+<!-- Modern GitHub Profile README for Nekmal Fernando -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nekmal&label=Profile%20views&color=0e75b6&style=flat" alt="nekmal" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=4FC3F7&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Nekmal+Fernando!;💻+Passionate+Software+Developer+from+Sri+Lanka;🚀+MERN+Stack+%7C+Full+Stack+Developer;🌱+Always+Learning+New+Technologies" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nekmal" alt="nekmal" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## 💫 About Me  
+🎯 I’m a passionate **Software Developer** who loves building interactive and efficient web applications.  
+💻 Currently focusing on **MERN Stack Development** and exploring **SvelteKit & TypeScript**.  
+🌐 I enjoy working on creative projects that solve real-world problems.  
+📬 Reach me at: [**fernandonekmalnuminda@gmail.com**](mailto:fernandonekmalnuminda@gmail.com)  
+⚡ Fun fact: *I debug my code faster with coffee ☕*  
 
-- 🔭 I’m currently working on **Java**
+---
 
-- 🌱 I’m currently learning **Java**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **fernandonekmalnuminda@gmail.com**
-
-- ⚡ Fun fact **Call me as NF**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nekmal fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nekmal fernando" height="30" width="40" /></a>
-<a href="https://fb.com/nekmal fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nekmal fernando" height="30" width="40" /></a>
-<a href="https://instagram.com/nekmal_fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nekmal_fernando" height="30" width="40" /></a>
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/nekmal-fernando" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:fernandonekmalnuminda@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/Nekmal" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nekmal&show_icons=true&locale=en" alt="nekmal" /></p>
+## 💻 Tech Stack  
+
+### 🧠 Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,c" height="50" />
+</p>
+
+### 🎨 Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,svelte,redux,bootstrap,tailwind" height="50" />
+</p>
+
+### ⚙️ Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="50" />
+</p>
+
+### 🗄️ Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" height="50" />
+</p>
+
+### 🧰 Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,figma" height="50" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nekmal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nekmal&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nekmal&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nekmal&theme=tokyonight&hide_border=true&layout=compact" height="160" />
+</p>
+
+---
+
+## 🚀 My Motto  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" alt="Coding Dino" />
+  <br>
+  <b>“Code. Learn. Grow. Repeat.”</b> 💡
+</p>
