@@ -1,10 +1,6 @@
 <!-- Modern GitHub Profile README for Nekmal Fernando -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=4FC3F7&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Nekmal+Fernando!;💻+Passionate+Software+Developer+from+Sri+Lanka;🚀+MERN+Stack+%7C+Full+Stack+Developer;🌱+Always+Learning+New+Technologies" alt="Typing SVG" />
-</h1>
-
----
+<h1 align="center">Hi 👋, I'm <span style="color:#4fc3f7;">Nekmal Fernando</span></h1>
+<h3 align="center">💻 Passionate Software Developer from <b>Sri Lanka</b> 🌍</h3>
 
 ## 💫 About Me  
 🎯 I’m a passionate **Software Developer** who loves building interactive and efficient web applications.  
@@ -75,8 +71,6 @@
 </p>
 
 ---
-
-## 🚀 My Motto  
 <p align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" alt="Coding Dino" />
   <br>
