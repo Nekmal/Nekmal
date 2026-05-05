@@ -1,9 +1,9 @@
 <!-- Modern GitHub Profile README for Nekmal Fernando -->
 <h1 align="center">Hi 👋, I'm <span style="color:#4fc3f7;">Nekmal Fernando</span></h1>
-<h3 align="center">💻 Passionate Software Developer from <b>Sri Lanka</b> 🌍</h3>
+<h3 align="center">💻 Passionate Software Engineer from <b>Sri Lanka</b> 🌍</h3>
 
 ## 💫 About Me  
-🎯 I’m a passionate **Software Developer** who loves building interactive and efficient web applications.  
+🎯 I’m a passionate **Software Engineer** who loves building interactive and efficient web applications.  
 💻 Currently focusing on **MERN Stack Development** and exploring **SvelteKit & TypeScript**.  
 🌐 I enjoy working on creative projects that solve real-world problems.  
 📬 Reach me at: [**fernandonekmalnuminda@gmail.com**](mailto:fernandonekmalnuminda@gmail.com)  
