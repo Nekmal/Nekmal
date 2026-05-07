@@ -1,5 +1,5 @@
 <!-- Modern GitHub Profile README for Nekmal Fernando -->
-<h1 align="center">Hi 👋, I'm <span style="color:#4fc3f7;">Nekmal Fernando</span></h1>
+<h1 align="center">Hi 👋, I am <span style="color:#4fc3f7;">Nekmal Fernando</span></h1>
 <h3 align="center">💻 Passionate Software Engineer from <b>Sri Lanka</b> 🌍</h3>
 
 ## 💫 About Me  
